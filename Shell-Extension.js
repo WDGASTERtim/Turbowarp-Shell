@@ -29,7 +29,7 @@
             arguments: {
               message: {
                 type: Scratch.ArgumentType.STRING,
-                defaultValue: 'Hello, WebSocket!'
+                defaultValue: 'echo Hello World'
               }
             }
           },
